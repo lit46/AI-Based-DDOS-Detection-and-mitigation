@@ -1,0 +1,22 @@
+# environments and caches
+tf_env/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# raw public datasets (download them; do not commit)
+data/raw/
+*.pcap
+*.pcapng
+CIC-DDoS2019/
+UNSW-NB15/
+# controller (fetched by script, not committed)
+floodlight/
+*.jar
+# logs and scratch
+nohup.out
+*.tmp
+demo_run/
+# keep small saved results
+!results/**

@@ -1,0 +1,13 @@
+features,mode,variant,rows,attack_rows,recall,false_positive_rate
+ALL,leave_variant_out,heavy,1176,0,,0.0
+ALL,leave_variant_out,heavy_atk,1106,83,0.0,0.0
+ALL,leave_variant_out,syn,12369,99,0.2222222222222222,0.010024449877750611
+RFE_RF,leave_variant_out,heavy,1176,0,,0.0
+RFE_RF,leave_variant_out,heavy_atk,1106,83,0.0,0.0
+RFE_RF,leave_variant_out,syn,12369,99,1.0,0.012469437652811735
+MI,leave_variant_out,heavy,1176,0,,0.0
+MI,leave_variant_out,heavy_atk,1106,83,0.0,0.0
+MI,leave_variant_out,syn,12369,99,0.0,0.009779951100244499
+COUNTERS3,leave_variant_out,heavy,1176,0,,0.0
+COUNTERS3,leave_variant_out,heavy_atk,1106,83,0.0,0.009775171065493646
+COUNTERS3,leave_variant_out,syn,12369,99,0.2727272727272727,0.010676446617766911

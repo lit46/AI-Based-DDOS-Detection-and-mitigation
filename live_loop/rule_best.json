@@ -1,0 +1,6 @@
+{
+ "feature": "d_packets",
+ "threshold": 188.7066666666663,
+ "direction": ">=",
+ "youden_j": 0.9093
+}

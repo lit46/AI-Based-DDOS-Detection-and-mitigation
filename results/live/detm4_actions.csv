@@ -1,0 +1,4 @@
+t_first_positive,t_block,src,dpid,ok,reply,secs_since_last_block,n_switches_in_reply
+1792945307.447,1792945309.492,10.0.0.4,00:00:00:00:00:00:00:01+00:00:00:00:00:00:00:02+00:00:00:00:00:00:00:03,True,"{""status"" : ""Entry pushed""} | {""status"" : ""Entry pushed""} | {""status"" : ""Entry p",,3
+1792945372.29,1792945374.305,10.0.0.5,00:00:00:00:00:00:00:01+00:00:00:00:00:00:00:02+00:00:00:00:00:00:00:03,True,"{""status"" : ""Entry pushed""} | {""status"" : ""Entry pushed""} | {""status"" : ""Entry p",,3
+1792945372.29,1792945374.322,10.0.0.4,00:00:00:00:00:00:00:01+00:00:00:00:00:00:00:02+00:00:00:00:00:00:00:03,True,"{""status"" : ""Entry pushed""} | {""status"" : ""Entry pushed""} | {""status"" : ""Entry p",64.8,3
