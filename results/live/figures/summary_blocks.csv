@@ -1,0 +1,15 @@
+variant,detector,run,attacker_blocks,normal_host_blocks
+syn_big,XGBoost v3,hm_syn_big,4,0
+syn_big,Rule,hr_syn_big,4,3
+udp_big,XGBoost v3,hm_udp_big,6,0
+udp_big,Rule,hr_udp_big,4,0
+icmp_big,XGBoost v3,im_icmp_big,3,0
+icmp_big,Rule,ir_icmp_big,4,3
+flash crowd,XGBoost v3,hm_flashcrowd,0,0
+flash crowd,Rule,hr_flashcrowd,0,5
+heavy,XGBoost v3,hvm_heavy,0,6
+heavy,Rule,hvr_heavy,0,7
+heavy,XGBoost v4,hv4_heavy,0,0
+heavy+flood,XGBoost v3,hvm_heavy_atk,4,5
+heavy+flood,Rule,hvr_heavy_atk,4,10
+heavy+flood,XGBoost v4,hv4_heavy_atk,3,0
