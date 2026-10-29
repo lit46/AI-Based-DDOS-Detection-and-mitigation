@@ -1,0 +1,4 @@
+t_start,t_end,kind,attackers,pps,variant
+1792947774.873,1792947794.892,attack,10.0.0.4,500,heavy_atk
+1792947839.894,1792947859.921,attack,10.0.0.4+10.0.0.5,500,heavy_atk
+1792947904.922,1792947924.929,attack,10.0.0.5,500,heavy_atk
